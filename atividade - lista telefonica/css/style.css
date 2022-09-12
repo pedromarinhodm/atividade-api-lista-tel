@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f3f3f4;
+}
+
+.box{
+    margin: 0 auto;
+    padding-top: 10vh;
+    text-align: center;
+}
+
+.borda{
+    width: 20vw;
+    height: 40vh;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5%;
+}
+
+.logo-name{
+    font-size: 5em;
+    color: #cfcccc;
+    margin: 0;
+    padding-top: 2vh;
+}
+
+h3{
+    font-family: inherit;
+    color: inherit;
+}
+
+#box1{
+    width: 8vw;
+    height: 4vh;
+}
+
+#box2{
+    width: 8vw;
+    height: 4vh;
+}
+
+#bot{
+    background-color: #1ab394;
+    border-color: #1ab394;
+    color: white;
+    cursor: pointer;
+    width: 8vw;
+    height: 3vh;
+
+}
+
